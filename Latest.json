@@ -1,5 +1,0 @@
-{
-  "version": "1.1.0",
-  "download_url": "https://github.com/iSeif19/pixeltools/releases/download/v1.1.0/Pixel-Tools-Setup-1.1.0.exe",
-  "changelog": "- Added auto-update functionality\n- Improved drag and drop support\n- Fixed Steam restart issues\n- Enhanced UI animations\n- Added theme detection and toggle"
-} 
